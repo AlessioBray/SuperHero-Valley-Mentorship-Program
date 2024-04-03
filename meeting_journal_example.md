@@ -1,9 +1,6 @@
-# SuperHero Valley Mentorship Program 
-## Journal
+## Journal \#\#
 
 Date: gg-mm-yyyy
-Mentee: Name Surname
-Mentor: Name Surname
 
 ### What to do?
 
@@ -18,6 +15,12 @@ Mentor: Name Surname
 2. ...
 3. ...
 ...
+
+### Notes
+
+1. ...
+2. ...
+3. ...
 
 ### What's next?
 * ...
